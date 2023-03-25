@@ -6,7 +6,7 @@ String tituloPelicula;
 double precioEntrada;
 
 //Método Constructor
-public SalaCine() {
+    public MultiCine() {
     aforo = 100;
     butacasOcupadas = 0;
     tituloPelicula = "";
