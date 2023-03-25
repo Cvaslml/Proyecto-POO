@@ -1,4 +1,4 @@
-public class SalaCine {
+public class MultiCine {
 
     int aforo;
     int butacasOcupadas;
