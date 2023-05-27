@@ -6,4 +6,4 @@ Proyecto hecho por:
 
 ## Diagrama de Clases
 
-![diagrama de clases](class-diagram.png "Diagrama de clases")
+![diagrama de clases](diagram.png "Diagrama de clases")
