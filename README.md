@@ -1,9 +1,11 @@
 ## MultiCine
 
 Proyecto hecho por:
-- Joan Sebastian Herrera
+- Joan Sebastian Herrera Melgarejo 🐈‍⬛ :octocat:
 - Diego Rodriguez
 
 ## Diagrama de Clases
 
-![diagrama de clases](Diagram.png "Diagrama de clases")
+![azul](Diagram.png "Diagrama de clases")
+
+©Copyright 2023.
