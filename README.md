@@ -1,4 +1,4 @@
-## MultiCine
+## AdmiCine
 
 Proyecto hecho por:
 - Joan Sebastian Herrera Melgarejo 🐈‍⬛ :octocat:
