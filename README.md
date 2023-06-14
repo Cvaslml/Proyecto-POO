@@ -6,6 +6,6 @@ Proyecto hecho por:
 
 ## Diagrama de Clases
 
-![azul](Diagram.png "Diagrama de clases")
+![Diagrama](Diagram.png "Diagrama de clases")
 
 ©Copyright 2023.
